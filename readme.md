@@ -12,7 +12,7 @@ first things first:
 
 then to run the project:
 
-- build the project with `watch make`
+- build the project with `watch make -j 2`
 - serve project with `python -m SimpleHTTPServer`, aim browser at `http://localhost:8000`
 - write code in `index.html`, `src/main.js`, and `src/main.scss`
 
